@@ -26,7 +26,7 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 ### Recent TILs
 <!-- TILs start -->
-- [Yachtmaster Notes](https://github.com/fosdickio/til/blob/main/sailing/yachtmaster-notes.md) (2020-10-13)
+- [Yachtmaster Notes](https://github.com/fosdickio/til/blob/main/sailing/yachtmaster-notes.md) (2020-10-15)
 
 - [Automate the Pushing of Commits to a Repository](https://github.com/fosdickio/til/blob/main/github-actions/automate-commit-pushes.md) (2020-09-12)
 
