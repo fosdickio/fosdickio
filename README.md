@@ -26,15 +26,15 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 ### Recent TILs
 <!-- TILs start -->
-- [Yachtmaster Notes](https://github.com/fosdickio/til/blob/main/sailing/yachtmaster-notes.md) (2020-10-16)
+- [Yachtmaster Notes](https://github.com/fosdickio/til/blob/main/sailing/yachtmaster-notes.md) (2020-11-23)
+
+- [Startup Entrepreneurship Notes](https://github.com/fosdickio/til/blob/main/startups/startup-entrepreneurship-notes.md) (2020-11-23)
 
 - [Automate the Pushing of Commits to a Repository](https://github.com/fosdickio/til/blob/main/github-actions/automate-commit-pushes.md) (2020-09-12)
 
 - [Python for Finance](https://github.com/fosdickio/til/blob/main/python/python-for-finance.md) (2020-09-12)
 
 - [Pandas Snippets](https://github.com/fosdickio/til/blob/main/python/pandas-snippets.md) (2020-09-02)
-
-- [NumPy Snippets](https://github.com/fosdickio/til/blob/main/python/numpy-snippets.md) (2020-08-28)
 <!-- TILs end -->
 View more TILs in [the TIL repository](https://github.com/fosdickio/til).
 
