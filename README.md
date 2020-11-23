@@ -32,9 +32,9 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 - [Startup Entrepreneurship Notes](https://github.com/fosdickio/til/blob/main/startups/startup-entrepreneurship-notes.md) (2020-11-23)
 
-- [Automate the Pushing of Commits to a Repository](https://github.com/fosdickio/til/blob/main/github-actions/automate-commit-pushes.md) (2020-09-12)
+- [System Design Notes](https://github.com/fosdickio/til/blob/main/system-design/system-design-notes.md) (2020-11-23)
 
-- [Python for Finance](https://github.com/fosdickio/til/blob/main/python/python-for-finance.md) (2020-09-12)
+- [Automate the Pushing of Commits to a Repository](https://github.com/fosdickio/til/blob/main/github-actions/automate-commit-pushes.md) (2020-09-12)
 <!-- TILs end -->
 View more TILs in [the TIL repository](https://github.com/fosdickio/til).
 
