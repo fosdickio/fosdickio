@@ -26,13 +26,13 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 ### Recent TILs
 <!-- TILs start -->
+- [System Design Notes](https://github.com/fosdickio/til/blob/main/system-design/system-design-notes.md) (2020-11-26)
+
 - [Data Structures and Algorithms Notes](https://github.com/fosdickio/til/blob/main/data-structures-and-algorithms/data-structures-and-algorithms-notes.md) (2020-11-23)
 
 - [Yachtmaster Notes](https://github.com/fosdickio/til/blob/main/sailing/yachtmaster-notes.md) (2020-11-23)
 
 - [Startup Entrepreneurship Notes](https://github.com/fosdickio/til/blob/main/startups/startup-entrepreneurship-notes.md) (2020-11-23)
-
-- [System Design Notes](https://github.com/fosdickio/til/blob/main/system-design/system-design-notes.md) (2020-11-23)
 
 - [Automate the Pushing of Commits to a Repository](https://github.com/fosdickio/til/blob/main/github-actions/automate-commit-pushes.md) (2020-09-12)
 <!-- TILs end -->
