@@ -26,7 +26,7 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 ### Recent TILs
 <!-- TILs start -->
-- [System Design Notes](https://github.com/fosdickio/til/blob/main/system-design/system-design-notes.md) (2020-11-26)
+- [System Design Notes](https://github.com/fosdickio/til/blob/main/system-design/system-design-notes.md) (2020-11-27)
 
 - [Data Structures and Algorithms Notes](https://github.com/fosdickio/til/blob/main/data-structures-and-algorithms/data-structures-and-algorithms-notes.md) (2020-11-23)
 
