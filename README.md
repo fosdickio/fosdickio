@@ -26,15 +26,15 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 ### Recent TILs
 <!-- TILs start -->
-- [Go Notes](https://github.com/fosdickio/til/blob/main/go/go-notes.md) (2020-12-03)
+- [Pandas Snippets](https://github.com/fosdickio/til/blob/main/python/pandas-snippets.md) (2020-09-02)
 
-- [System Design Notes](https://github.com/fosdickio/til/blob/main/system-design/system-design-notes.md) (2020-12-03)
+- [Python for Finance](https://github.com/fosdickio/til/blob/main/python/python-for-finance.md) (2020-09-02)
 
-- [Data Structures and Algorithms Notes](https://github.com/fosdickio/til/blob/main/data-structures-and-algorithms/data-structures-and-algorithms-notes.md) (2020-11-23)
+- [NumPy Snippets](https://github.com/fosdickio/til/blob/main/python/numpy-snippets.md) (2020-08-28)
 
-- [Yachtmaster Notes](https://github.com/fosdickio/til/blob/main/sailing/yachtmaster-notes.md) (2020-11-23)
+- [Python Snippets](https://github.com/fosdickio/til/blob/main/python/python-snippets.md) (2020-08-27)
 
-- [Startup Entrepreneurship Notes](https://github.com/fosdickio/til/blob/main/startups/startup-entrepreneurship-notes.md) (2020-11-23)
+- [Git Snippets](https://github.com/fosdickio/til/blob/main/git/git-snippets.md) (2020-08-26)
 <!-- TILs end -->
 View more TILs in [the TIL repository](https://github.com/fosdickio/til).
 
