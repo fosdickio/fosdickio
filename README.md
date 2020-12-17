@@ -26,7 +26,7 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 ### Recent TILs
 <!-- TILs start -->
-- [Elixir Notes](https://github.com/fosdickio/til/blob/main/elixir/elixir-notes.md) (2020-12-15)
+- [Elixir Notes](https://github.com/fosdickio/til/blob/main/elixir/elixir-notes.md) (2020-12-16)
 
 - [GraphQL Notes](https://github.com/fosdickio/til/blob/main/graphql/graphql-notes.md) (2020-12-08)
 
