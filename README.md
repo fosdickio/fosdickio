@@ -26,6 +26,8 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 ### Recent TILs
 <!-- TILs start -->
+- [JavaScript Notes](https://github.com/fosdickio/til/blob/main/javascript/javascript-notes.md) (2021-01-04)
+
 - [Elixir Notes](https://github.com/fosdickio/til/blob/main/elixir/elixir-notes.md) (2020-12-22)
 
 - [Phoenix Notes](https://github.com/fosdickio/til/blob/main/elixir/phoenix-notes.md) (2020-12-17)
@@ -33,8 +35,6 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 - [GraphQL Notes](https://github.com/fosdickio/til/blob/main/graphql/graphql-notes.md) (2020-12-08)
 
 - [Go Notes](https://github.com/fosdickio/til/blob/main/go/go-notes.md) (2020-12-03)
-
-- [System Design Notes](https://github.com/fosdickio/til/blob/main/system-design/system-design-notes.md) (2020-12-03)
 <!-- TILs end -->
 View more TILs in [the TIL repository](https://github.com/fosdickio/til).
 
