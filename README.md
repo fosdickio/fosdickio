@@ -26,6 +26,8 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 ### Recent TILs
 <!-- TILs start -->
+- [React Native Notes](https://github.com/fosdickio/til/blob/main/javascript/react-native-notes.md) (2021-01-07)
+
 - [JavaScript Notes](https://github.com/fosdickio/til/blob/main/javascript/javascript-notes.md) (2021-01-06)
 
 - [React Notes](https://github.com/fosdickio/til/blob/main/javascript/react-notes.md) (2021-01-06)
@@ -33,8 +35,6 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 - [Elixir Notes](https://github.com/fosdickio/til/blob/main/elixir/elixir-notes.md) (2020-12-22)
 
 - [Phoenix Notes](https://github.com/fosdickio/til/blob/main/elixir/phoenix-notes.md) (2020-12-17)
-
-- [GraphQL Notes](https://github.com/fosdickio/til/blob/main/graphql/graphql-notes.md) (2020-12-08)
 <!-- TILs end -->
 View more TILs in [the TIL repository](https://github.com/fosdickio/til).
 
