@@ -26,15 +26,15 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 ### Recent TILs
 <!-- TILs start -->
+- [State in Distributed Systems](https://github.com/fosdickio/til/blob/main/distributed-computing/04-state-in-distributed-systems.md) (2021-01-30)
+
+- [Consensus in Distributed Systems](https://github.com/fosdickio/til/blob/main/distributed-computing/05-consensus-in-distributed-systems.md) (2021-01-30)
+
 - [A Primer on Remote Procedure Calls](https://github.com/fosdickio/til/blob/main/distributed-computing/02-a-primer-on-remote-procedure-calls.md) (2021-01-26)
 
 - [Time in Distributed Systems](https://github.com/fosdickio/til/blob/main/distributed-computing/03-time-in-distributed-systems.md) (2021-01-26)
 
 - [Introduction to Distributed Systems](https://github.com/fosdickio/til/blob/main/distributed-computing/01-introduction-to-distributed-systems.md) (2021-01-23)
-
-- [Rust Notes](https://github.com/fosdickio/til/blob/main/rust/rust-notes.md) (2021-01-22)
-
-- [React Native Notes](https://github.com/fosdickio/til/blob/main/javascript/react-native-notes.md) (2021-01-14)
 <!-- TILs end -->
 View more TILs in [the TIL repository](https://github.com/fosdickio/til).
 
