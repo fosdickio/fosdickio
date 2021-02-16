@@ -26,7 +26,7 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 ### Recent TILs
 <!-- TILs start -->
-- [Paxos and Friends](https://github.com/fosdickio/til/blob/main/distributed-computing/06-paxos-and-friends.md) (2021-02-15)
+- [Paxos and Friends](https://github.com/fosdickio/til/blob/main/distributed-computing/06-paxos-and-friends.md) (2021-02-16)
 
 - [Consensus in Distributed Systems](https://github.com/fosdickio/til/blob/main/distributed-computing/05-consensus-in-distributed-systems.md) (2021-01-30)
 
