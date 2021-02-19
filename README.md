@@ -26,6 +26,8 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 ### Recent TILs
 <!-- TILs start -->
+- [Replication](https://github.com/fosdickio/til/blob/main/distributed-computing/07-replication.md) (2021-02-18)
+
 - [Paxos and Friends](https://github.com/fosdickio/til/blob/main/distributed-computing/06-paxos-and-friends.md) (2021-02-16)
 
 - [Consensus in Distributed Systems](https://github.com/fosdickio/til/blob/main/distributed-computing/05-consensus-in-distributed-systems.md) (2021-01-30)
@@ -33,8 +35,6 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 - [State in Distributed Systems](https://github.com/fosdickio/til/blob/main/distributed-computing/04-state-in-distributed-systems.md) (2021-01-30)
 
 - [A Primer on Remote Procedure Calls](https://github.com/fosdickio/til/blob/main/distributed-computing/02-a-primer-on-remote-procedure-calls.md) (2021-01-26)
-
-- [Time in Distributed Systems](https://github.com/fosdickio/til/blob/main/distributed-computing/03-time-in-distributed-systems.md) (2021-01-26)
 <!-- TILs end -->
 View more TILs in [the TIL repository](https://github.com/fosdickio/til).
 
