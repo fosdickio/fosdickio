@@ -30,13 +30,13 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 <!-- TILs start -->
 - [Web3.js Notes](https://github.com/fosdickio/til/blob/main/ethereum/web3.js-notes.md) (2021-07-12)
 
+- [Testing React](https://github.com/fosdickio/til/blob/main/react/testing-react.md) (2021-07-12)
+
+- [Redux Notes](https://github.com/fosdickio/til/blob/main/react/redux-notes.md) (2021-07-12)
+
 - [React Notes](https://github.com/fosdickio/til/blob/main/react/react-notes.md) (2021-07-12)
 
 - [React Hooks](https://github.com/fosdickio/til/blob/main/react/react-hooks.md) (2021-07-12)
-
-- [React Native Notes](https://github.com/fosdickio/til/blob/main/react/react-native-notes.md) (2021-07-12)
-
-- [The Document Object Model](https://github.com/fosdickio/til/blob/main/javascript/14-the-document-object-model.md) (2021-07-07)
 <!-- TILs end -->
 View more TILs in [the TIL repository](https://github.com/fosdickio/til).
 
