@@ -28,15 +28,15 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 ### Recent TILs
 <!-- TILs start -->
-- [Istio Architecture](https://github.com/fosdickio/til/blob/main/istio/istio-architecture.md) (2021-09-09)
+- [Node.js](https://github.com/fosdickio/til/blob/main/javascript/20-nodesjs.md) (2021-09-18)
 
-- [HTTP and Forms](https://github.com/fosdickio/til/blob/main/javascript/18-http-and-forms.md) (2021-09-09)
+- [Istio Architecture](https://github.com/fosdickio/til/blob/main/istio/istio-architecture.md) (2021-09-09)
 
 - [Handling Browser Events](https://github.com/fosdickio/til/blob/main/javascript/15-handling-events.md) (2021-09-09)
 
-- [Drawing On Canvas](https://github.com/fosdickio/til/blob/main/javascript/17-drawing-on-canvas.md) (2021-09-09)
+- [HTTP and Forms](https://github.com/fosdickio/til/blob/main/javascript/18-http-and-forms.md) (2021-09-09)
 
-- [Game Engines](https://github.com/fosdickio/til/blob/main/video-game-design/01-game-engines.md) (2021-09-09)
+- [Drawing On Canvas](https://github.com/fosdickio/til/blob/main/javascript/17-drawing-on-canvas.md) (2021-09-09)
 <!-- TILs end -->
 View more TILs in [the TIL repository](https://github.com/fosdickio/til).
 
