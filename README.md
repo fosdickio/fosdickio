@@ -28,15 +28,15 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 ### Recent TILs
 <!-- TILs start -->
+- [Istio Snippets](https://github.com/fosdickio/til/blob/main/istio/istio-snippets.md) (2021-09-21)
+
+- [Istio APIs](https://github.com/fosdickio/til/blob/main/istio/istio-apis.md) (2021-09-21)
+
 - [Kotlin Notes](https://github.com/fosdickio/til/blob/main/kotlin/kotlin-notes.md) (2021-09-20)
 
 - [Node.js](https://github.com/fosdickio/til/blob/main/javascript/20-nodesjs.md) (2021-09-18)
 
 - [Istio Architecture](https://github.com/fosdickio/til/blob/main/istio/istio-architecture.md) (2021-09-09)
-
-- [Handling Browser Events](https://github.com/fosdickio/til/blob/main/javascript/15-handling-events.md) (2021-09-09)
-
-- [HTTP and Forms](https://github.com/fosdickio/til/blob/main/javascript/18-http-and-forms.md) (2021-09-09)
 <!-- TILs end -->
 View more TILs in [the TIL repository](https://github.com/fosdickio/til).
 
