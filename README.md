@@ -28,7 +28,7 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 ### Recent TILs
 <!-- TILs start -->
-- [Kotlin Notes](https://github.com/fosdickio/til/blob/main/kotlin/kotlin-notes.md) (2021-09-23)
+- [Kotlin Notes](https://github.com/fosdickio/til/blob/main/kotlin/kotlin-notes.md) (2021-09-26)
 
 - [Istio Snippets](https://github.com/fosdickio/til/blob/main/istio/istio-snippets.md) (2021-09-21)
 
