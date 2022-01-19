@@ -16,7 +16,7 @@
 
 ### Recent Blog Posts
 <!-- Blog entries start -->
-- [Building Production Grade Microservices (Part 1): Design Patterns](https://www.fosdick.io/2021/03/04/building-production-grade-microservices-part-1.html) (2021-03-04)
+- [Microservice Design Patterns](https://www.fosdick.io/2021/03/04/microservice-design-patterns.html) (2021-03-04)
 
 - [Anomaly Detection in the Service Mesh](https://www.fosdick.io/2018/04/17/anomaly-detection-in-the-service-mesh.html) (2018-04-17)
 <!-- Blog entries end -->
