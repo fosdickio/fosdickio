@@ -28,15 +28,15 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 ### Recent TILs
 <!-- TILs start -->
-- [The Java Language](https://github.com/fosdickio/til/blob/main/java/04-the-java-language.md) (2021-10-15)
+- [The Rust Programming Language](https://github.com/fosdickio/til/blob/main/rust/the-rust-programming-language.md) (2023-08-20)
 
-- [Exposing Applications on an HTTP Port](https://github.com/fosdickio/til/blob/main/istio/expose-applications-via-http.md) (2021-10-07)
+- [The Java Language](https://github.com/fosdickio/til/blob/main/java/04-the-java-language.md) (2021-10-15)
 
 - [Istio Snippets](https://github.com/fosdickio/til/blob/main/istio/istio-snippets.md) (2021-10-07)
 
-- [Real-Time Javascript](https://github.com/fosdickio/til/blob/main/javascript/real-time-javascript.md) (2021-10-07)
+- [Exposing Applications on an HTTP Port](https://github.com/fosdickio/til/blob/main/istio/expose-applications-via-http.md) (2021-10-07)
 
-- [An Introduction to C](https://github.com/fosdickio/til/blob/main/c/01-getting-started-with-c.md) (2021-10-05)
+- [Real-Time Javascript](https://github.com/fosdickio/til/blob/main/javascript/real-time-javascript.md) (2021-10-07)
 <!-- TILs end -->
 View more TILs in [the TIL repository](https://github.com/fosdickio/til).
 
