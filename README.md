@@ -28,15 +28,15 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 ### Recent TILs
 <!-- TILs start -->
+- [Entrepreneurship Lessons](https://github.com/fosdickio/til/blob/main/entrepreneurship/a-dozen-lessons.md) (2023-11-06)
+
+- [Scanning](https://github.com/fosdickio/til/blob/main/interpreters/04-scanning.md) (2023-11-06)
+
 - [Performance-Aware Programming](https://github.com/fosdickio/til/blob/main/performance/performance-aware-programming.md) (2023-11-04)
 
 - [Git Snippets](https://github.com/fosdickio/til/blob/main/git/git-snippets.md) (2023-09-27)
 
 - [The Rust Programming Language](https://github.com/fosdickio/til/blob/main/rust/the-rust-programming-language.md) (2023-08-20)
-
-- [The Java Language](https://github.com/fosdickio/til/blob/main/java/04-the-java-language.md) (2021-10-15)
-
-- [Istio Snippets](https://github.com/fosdickio/til/blob/main/istio/istio-snippets.md) (2021-10-07)
 <!-- TILs end -->
 View more TILs in [the TIL repository](https://github.com/fosdickio/til).
 
