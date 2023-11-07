@@ -32,7 +32,7 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 - [Scanning](https://github.com/fosdickio/til/blob/main/interpreters/04-scanning.md) (2023-11-06)
 
-- [Performance-Aware Programming](https://github.com/fosdickio/til/blob/main/performance/performance-aware-programming.md) (2023-11-04)
+- [Performance-Aware Programming](https://github.com/fosdickio/til/blob/main/performance/performance-aware-programming.md) (2023-11-06)
 
 - [Git Snippets](https://github.com/fosdickio/til/blob/main/git/git-snippets.md) (2023-09-27)
 
