@@ -28,6 +28,8 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 ### Recent TILs
 <!-- TILs start -->
+- [Compilers](https://github.com/fosdickio/til/blob/main/compilers/compiler-notes.md) (2024-01-15)
+
 - [Go Snippets](https://github.com/fosdickio/til/blob/main/go/go-snippets.md) (2024-01-03)
 
 - [Performance-Aware Programming](https://github.com/fosdickio/til/blob/main/performance/performance-aware-programming.md) (2023-12-28)
@@ -35,8 +37,6 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 - [The Rust Programming Language](https://github.com/fosdickio/til/blob/main/rust/the-rust-programming-language.md) (2023-12-28)
 
 - [Entrepreneurship Lessons](https://github.com/fosdickio/til/blob/main/entrepreneurship/a-dozen-lessons.md) (2023-11-06)
-
-- [Scanning](https://github.com/fosdickio/til/blob/main/interpreters/04-scanning.md) (2023-11-06)
 <!-- TILs end -->
 View more TILs in [the TIL repository](https://github.com/fosdickio/til).
 
