@@ -28,7 +28,7 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 ### Recent TILs
 <!-- TILs start -->
-- [Compiler Notes](https://github.com/fosdickio/til/blob/main/compilers/compiler-notes.md) (2024-01-16)
+- [Compiler Notes](https://github.com/fosdickio/til/blob/main/compilers/compiler-notes.md) (2024-01-18)
 
 - [Go Snippets](https://github.com/fosdickio/til/blob/main/go/go-snippets.md) (2024-01-03)
 
