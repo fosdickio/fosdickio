@@ -16,7 +16,9 @@
 
 ### Recent Blog Posts
 <!-- Blog entries start -->
+- [Microservice Design Patterns](https://www.fosdick.io/2021/03/04/microservice-design-patterns.html) (2021-03-04)
 
+- [Anomaly Detection in the Service Mesh](https://www.fosdick.io/2018/04/17/anomaly-detection-in-the-service-mesh.html) (2018-04-17)
 <!-- Blog entries end -->
 View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
